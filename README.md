@@ -1,13 +1,13 @@
-# CPS Media Hub — interview concept
+# CPS Digital Interview Prototype — integrated release
 
-A responsive static Media Hub prototype for GitHub Pages.
+Upload the CONTENTS of this folder to the ROOT of your GitHub Pages repository. Keep index.html, style.css and script.js together.
 
-## Publish
+Pages:
+- index.html — preserved Version 1 homepage with new Research / Media Hub navigation and integrated research feature.
+- media.html — previous Netflix-style media hub, now linked to research.
+- research.html — searchable/filterable research library.
+- report.html — featured report page for Easing the Burdens with original PDF link.
 
-Upload `index.html` and `media.html` to the root of a GitHub repository. Under Settings > Pages, choose Deploy from a branch, `main`, `/ (root)`.
+All media content, images, and topic descriptions are illustrative unless linked to the official source. This is an interview concept, not the official CPS website. Media interactions in the existing prototype are demo-only.
 
-`index.html` opens the Media Hub directly. `media.html` is an identical copy so it can also be added to an existing CPS homepage prototype and linked from its navigation.
-
-## Notes
-
-This is an independent design concept, not an official CPS site. Titles, durations and images are illustrative, not representations of real CPS productions. Media cards open demonstration detail panels; no actual video playback is connected. Photography is loaded from Unsplash and requires an internet connection.
+Important: Replace the repository's old index.html with this updated one so the homepage stays in sync.
