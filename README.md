@@ -1,9 +1,10 @@
-# CPS editorial redesign — complete website ZIP
+# CPS digital redesign — editorial homepage update
 
-Upload all files and the `assets` folder to the root of your GitHub Pages repository. Replace the old `index.html` and retain the other pages.
+Upload the **contents** of this ZIP to the root of your GitHub Pages repository. Replace previous files, preserving the `assets/` folder.
 
-Pages: index.html, research.html, report.html, media.html, podcast.html, episode.html.
+- `index.html`: redesigned homepage based on the approved mock-up.
+- `home.css`, `home.js`: homepage styling and interactions.
+- `media.html`, `research.html`, `report.html`, `podcast.html`, `episode.html`: retained connected demo pages.
+- `assets/westminster-clean.jpg`: photograph cropped to remove text accidentally embedded in the previous hero image. The research topic navigation is now actual HTML on a separate solid-navy strip.
 
-The homepage has been rebuilt to match the approved editorial visual reference, with a photographic Westminster hero, integrated topic strip, four-column editorial features and a media banner. Other existing pages remain in this package.
-
-Note: illustrative editorial content and cropped photographic elements from the approved visual mock-up; not an official CPS website. Newsletter and some media interactions elsewhere are demonstrations.
+This is an independent interview prototype, not the official CPS site. Some articles and episode titles are illustrative.
