@@ -1,13 +1,9 @@
-# CPS Digital Interview Prototype — integrated release
+# CPS editorial redesign — complete website ZIP
 
-Upload the CONTENTS of this folder to the ROOT of your GitHub Pages repository. Keep index.html, style.css and script.js together.
+Upload all files and the `assets` folder to the root of your GitHub Pages repository. Replace the old `index.html` and retain the other pages.
 
-Pages:
-- index.html — preserved Version 1 homepage with new Research / Media Hub navigation and integrated research feature.
-- media.html — previous Netflix-style media hub, now linked to research.
-- research.html — searchable/filterable research library.
-- report.html — featured report page for Easing the Burdens with original PDF link.
+Pages: index.html, research.html, report.html, media.html, podcast.html, episode.html.
 
-All media content, images, and topic descriptions are illustrative unless linked to the official source. This is an interview concept, not the official CPS website. Media interactions in the existing prototype are demo-only.
+The homepage has been rebuilt to match the approved editorial visual reference, with a photographic Westminster hero, integrated topic strip, four-column editorial features and a media banner. Other existing pages remain in this package.
 
-Important: Replace the repository's old index.html with this updated one so the homepage stays in sync.
+Note: illustrative editorial content and cropped photographic elements from the approved visual mock-up; not an official CPS website. Newsletter and some media interactions elsewhere are demonstrations.
